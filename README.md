@@ -104,3 +104,5 @@ Pour 💡 Forcer LF pour tous les fichiers du projet afin que cette erreur ne se
 ```bash
 mkdir -p .github/workflows/lint.yml
 ```
+creation du workflow et push reussi
+![workflow actions](image-7.png)
