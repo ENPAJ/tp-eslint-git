@@ -122,6 +122,11 @@ git push --set-upstream origin feature/ajout-fonction
 La PR a ete envoye
 ![Pull Request](images/images/image-8.png)
 
+- tester avec index.js
+```bash
+npx eslint index.js
+```
+
 ## Resume du projet ✅ 
 ✔️ ESLint installé
 
