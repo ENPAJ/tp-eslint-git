@@ -4,6 +4,7 @@ console.log('Le résultat est',result)
 return result
 }
 
+
 const unusedVar = 42;
 
 function division(x, y) {
