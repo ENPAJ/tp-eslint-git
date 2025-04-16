@@ -104,3 +104,33 @@ Pour 💡 Forcer LF pour tous les fichiers du projet afin que cette erreur ne se
 ```bash
 mkdir -p .github/workflows/lint.yml
 ```
+creation du workflow et push reussi
+![workflow actions](image-7.png)
+
+- simulation d'un travail d'equipe
+creation de la branche *feature/ajout-feature* et du fichier *utils.js* contennat des erreurs
+```js
+const x = 10;
+console.log(x);
+
+<htmljs></html>
+```
+- Correction des erreurs et creation d'une PR
+```bash
+git push --set-upstream origin feature/ajout-fonction
+```
+La PR a ete envoye
+![Pull Request](images/image-8.png)
+
+## Resume du projet ✅ 
+✔️ ESLint installé
+
+✔️ Linting fonctionnel
+
+✔️ Intégration avec Git Hooks (Husky)
+
+✔️ Auto-fix opérationnel (--fix)
+
+✔️ Mise en place de GitHub Actions 
+
+✔️ Simulation d’un travail d’équipe 🎉
