@@ -126,6 +126,8 @@ La PR a ete envoye
 ```bash
 npx eslint index.js
 ```
+EKIIIEEEE !!! il y a plus de 200 erreurs dans ce fichier
+![index](images/image-index.png)
 
 ## Resume du projet ✅ 
 ✔️ ESLint installé
