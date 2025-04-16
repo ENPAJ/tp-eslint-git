@@ -128,7 +128,12 @@ tester index avec
 npx eslint index.js
 ```
 Il y a trop d'erreurs !!!
-correction des erreurs dans index.js et creation d'un PR
+correction des erreurs dans index.js et creation d'un PR.
+
+🎉🎉🎉🎉🎉🎉🎉
+
+YOUPPIIIII Le Workflow a ete envoye et process avec SUCCESS 🎉🎉🎉🎉
+![lint-success](images/image-success.png)
 
 ## Resume du projet ✅ 
 ✔️ ESLint installé
@@ -141,4 +146,4 @@ correction des erreurs dans index.js et creation d'un PR
 
 ✔️ Mise en place de GitHub Actions 
 
-✔️ Simulation d’un travail d’équipe 🎉
+✔️ Simulation d’un travail d’équipe 
