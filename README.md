@@ -99,3 +99,8 @@ Pour corriger cela j'ai fait
 npm run lint -- --fix
 ```
 Pour 💡 Forcer LF pour tous les fichiers du projet afin que cette erreur ne se reproduise plus, j'ai cree le fichier *.editorconfig*
+
+- Creation du workflow
+```bash
+mkdir -p .github/workflows/lint.yml
+```
