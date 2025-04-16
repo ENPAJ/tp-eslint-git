@@ -122,6 +122,14 @@ git push --set-upstream origin feature/ajout-fonction
 La PR a ete envoye
 ![Pull Request](images/image-8.png)
 
+- Tester index.js
+tester index avec
+```bash
+npx eslint index.js
+```
+Il y a trop d'erreurs !!!
+correction des erreurs dans index.js et creation d'un PR
+
 ## Resume du projet ✅ 
 ✔️ ESLint installé
 
